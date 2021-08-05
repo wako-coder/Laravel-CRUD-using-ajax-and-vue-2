@@ -3,7 +3,7 @@
         <div class="container">
             <div class="flex flex-wrap -mx-3">
                 <div class="w-full px-3">
-                    <h2 class="mb-8">Other projects</h2>
+                    <h2 class="mb-8">members of our group</h2>
                 </div>
                 <div class="w-full md:w-1/2 px-3" v-for="ad in ads" :key="ad.id">
                     <a target="_blank" :href="ad.link">
@@ -31,19 +31,31 @@
                 ads: [
                     {
                         id: 1,
-                        title: 'Form',
-                        link: 'https://form.js.org',
+                        title: 'wakoya kumsa Leta',
                         image_path: 'images/form.png',
-                        sub_title: 'A Classic Form Styling With Ease.',
-                        description: 'Single Class CSS Framework For Web Forms.',
+                        sub_title: 'ID: A/ur14337/10.',
+                        description: 'computer science and engineering',
                     },
                     {
                         id: 2,
-                        title: 'Codolog',
-                        link: 'https://codolog.com',
+                        title: 'Bilisuma Tadesse Firew  ',
                         image_path: 'images/codolog.png',
-                        sub_title: 'Your notes, simplified.',
-                        description: 'A cloud-based app for saving notes, thoughts, and ideas. Build especially for developers.',
+                        sub_title: 'ID: A/UR14779/10',
+                        description: 'computer science and engineering',
+                    },
+                     {
+                        id: 3,
+                        title: 'Nesru Sadik Mohammed',
+                        image_path: 'images/codolog.png',
+                        sub_title: 'ID: A/ur14678/10.',
+                        description: 'electronics and communication engineering',
+                    },
+                     {
+                        id: 3,
+                        title: 'MALDA MOTUMA HIRPASSA',
+                        image_path: 'images/form.png',
+                        sub_title: 'ID: A/UR14276/10.',
+                        description: 'computer science and engineering',
                     }
                 ]
             }

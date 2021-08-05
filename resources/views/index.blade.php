@@ -8,9 +8,9 @@
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <meta name="description" content="A simple example of using Laravel 5.8 and Vue 2 for creating CRUD applications with AJAX functionality.">
+    <meta name="description" content="for nnovation Division of EIC ">
 
-    <title>Laravel AJAX CRUD Application</title>
+    <title>ASTU-EIC WEB-DEVELOPMENT WORKSHOP</title>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-67918939-5"></script>
     <script>

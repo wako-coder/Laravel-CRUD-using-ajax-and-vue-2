@@ -5,10 +5,10 @@
                 <hr>
                 <div class="flex flex-wrap mt-8">
                     <div class="w-full md:w-1/2">
-                        <p class="copy">&copy; Codolog {{ date }}</p>
+                        <p class="copy">&copy; ASTU {{ date }}</p>
                     </div>
                     <div class="w-full md:w-1/2">
-                        <p>Made by <a href="https://github.com/the94air">@the94air</a>. All the code is <a href="https://github.com/the94air/laravel-ajax-crud/blob/master/LICENSE">MIT</a> licensed.</p>
+                        <p>Made by <a href="https://github.com/wako-coder">@wako-coder</a>. All the code is <a href="https://github.com/wako-coder/Laravel-CRUD-using-ajax-and-vue-2">EIC</a></p>
                     </div>
                 </div>
             </div>
