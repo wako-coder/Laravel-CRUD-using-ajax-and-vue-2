@@ -5,15 +5,13 @@ This is a simple example of using Laravel 5.8 and Vue 2 for creating CRUD applic
 ## How To Build This Project From Zero
 **[The Ultimate Guide For Creating Laravel CRUD AJAX Application using Laravel 5.8, Vue 2, Tailwindcss, Vue-router, and Axios](./steps.md)**
 
-## Demo
-https://laravel-ajax-crud.herokuapp.com
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/the94air/laravel-ajax-crud
-cd laravel-ajax-crud
+git clone https://github.com/wako-coder/Laravel-CRUD-using-ajax-and-vue-2
+Laravel-CRUD-using-ajax-and-vue-2
 ```
 
 2. Copy `.env` file:
@@ -26,9 +24,9 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=homestead
-DB_USERNAME=homestead
-DB_PASSWORD=secret
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 4. Install all the dependencies:
